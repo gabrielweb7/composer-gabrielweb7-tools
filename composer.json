@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "gabrielweb7\\tools": "src/"
+            "gabrielweb7\\tools\\": "src/"
         }
     }
 }
